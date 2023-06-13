@@ -1,0 +1,25 @@
+.nav-link ul li a {
+    margin-right: 20px;
+    color: #62687C;
+}
+
+.text h1 {
+    font-family: 'Play';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 56px;
+    color: #F0F3FF;
+}
+
+.text h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #62687C;
+}
+.link:hover{
+    color: #006EF2; 
+}
